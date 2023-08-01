@@ -1,16 +1,69 @@
-### Hi there 👋
+# Muhammad Shiraz
 
-<!--
-**muhammadshiraz/muhammadshiraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I'm Muhammad Shiraz, a UI/UX Developer and Senior Front End React Developer based in Istanbul, Turkey. I have over 10 years of experience in building user-friendly front-end applications.
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **UI/UX Developer & Senior Front End React Developer**
+  - *Oxhain Exchanging Future* - Istanbul, Turkey
+  - *Duration: Present*
+  - I am responsible for designing and developing intuitive user interfaces and implementing front-end solutions using React.js and other modern web technologies.
+
+## Education
+
+- **Master of Information Systems Engineering with Thesis**
+  - *Kocaeli University* - Istanbul, Turkey
+  - *Year of Graduation: 2022*
+  - *Field: Artificial Intelligence*
+
+- **Bachelor in Computer Science**
+  - *Dadabhoy Institute of Higher Education* - Karachi, Pakistan
+  - *Year of Graduation: 2014*
+  - *Field: Computer Science*
+
+## Certifications
+
+- **Advance Diploma in Software Engineering (ACCP-PRO Diploma)**
+  - *Duration: 2013 - 2017*
+
+## Contact Information
+
+- 📞 Mobile: +(92)-341-212-8554
+- 📱 WhatsApp: +(92)-341-212-8554
+- 📧 Email: muhammadshiraz996@gmail.com
+
+## Social Profiles
+
+- 🐦 Twitter: [https://twitter.com/muhammadxhiraz](https://twitter.com/muhammadxhiraz)
+- 📘 Facebook: [https://www.facebook.com/muhammadxhiraz/](https://www.facebook.com/muhammadxhiraz/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/muhammadshiraz/](https://www.linkedin.com/in/muhammadshiraz/)
+
+## Skills
+
+- HTML5
+- CSS3
+- Sass and LESS
+- PSD to HTML
+- JavaScript
+- jQuery
+- React.js
+- Next.js
+- Gatsby.js
+- Vue.js
+- Frontity.js
+- Material UI
+- Tailwind CSS
+- Styled Components
+- React Router
+- Chakra UI
+- Bootstrap
+- WordPress
+- Git
+- Bitbucket
+- Jira
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadshiraz&show_icons=true&hide=contribs)
+
+Feel free to connect with me on any of the above social profiles or reach out to me via email. I'm always open to collaboration and exciting new projects! Let's create amazing web experiences together! 😊
