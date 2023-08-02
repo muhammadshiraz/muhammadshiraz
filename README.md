@@ -1,6 +1,6 @@
 # Muhammad Shiraz
 
-Hello! 👋 I'm Muhammad Shiraz, a UI/UX Developer and Senior Front End React Developer based in Istanbul, Turkey. I have over 10 years of experience in building user-friendly front-end applications.
+Hello! 👋 I'm Muhammad Shiraz, a UI/UX Developer & Frontend React Developer | React.js, JavaScript (ES6), Typescript, Tailwind CSS based in Istanbul, Turkey. I have over 10 years of experience in building user-friendly front-end applications.
 
 ## Experience
 
