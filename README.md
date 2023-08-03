@@ -2,7 +2,32 @@
 
 # Muhammad Shiraz
 
-Hello! 👋 I'm Muhammad Shiraz, a UI/UX Developer & Frontend React Developer | React.js, JavaScript (ES6), Typescript, Tailwind CSS based in Istanbul, Turkey. I have over 10 years of experience in building user-friendly front-end applications.
+🔍 Hello! 👋 I'm Muhammad Shiraz, a 🌟 UI/UX Developer & Frontend React Developer 🚀 | Passionate about Creating Engaging Web Experiences! based in Istanbul, Turkey, with a strong passion for crafting exceptional digital experiences. My expertise lies in React, Node.js, and a diverse range of cutting-edge technologies, making me a versatile developer with a knack for turning ideas into reality.
+
+🌐 𝐎𝐩𝐞𝐧 𝐟𝐨𝐫 𝐄𝐱𝐜𝐢𝐭𝐢𝐧𝐠 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬: I am currently seeking new roles within the 𝐄𝐮𝐫𝐨𝐩𝐞𝐚𝐧 𝐔𝐧𝐢𝐨𝐧, where I can contribute my expertise and collaborate with dynamic teams on innovative projects. If you're looking for a motivated and detail-oriented developer to elevate your frontend initiatives, let's connect and explore possibilities together!**
+
+💡 Innovation & Collaboration: As a forward-thinking developer, I thrive on exploring modern techniques and staying up-to-date with the latest front-end technologies. Collaborating with cross-functional teams is second nature to me, as I believe it leads to the best outcomes and fosters creative problem-solving.
+
+🎨 User-Centric Design: My journey as a UI/UX Developer has honed my skills in creating intuitive and visually captivating interfaces. From wireframes to responsive designs, I ensure seamless user interactions and delightful user journeys that leave a lasting impression.
+
+🚀 Embracing Challenges: With an open mindset, I embrace challenges head-on, whether it's working with legacy technologies or diving into new frameworks like Vue.js or React.js. Adapting to diverse projects and seeking innovative solutions is what fuels my passion.
+
+🔧 Technical Proficiency: My frontend toolbox includes an array of powerful tools and frameworks like Redux, Next.js, Gatsby, and Frontity. Git, SASS, and Bootstrap are my go-to companions for streamlined development.
+
+💻 IDEs & More: I'm well-versed in using Visual Studio Code, IntelliJ IDEA, and various other IDEs, ensuring an efficient and smooth coding experience.
+
+#freelancing #frontendengineer #frontenddeveloper #blockchaindeveloper #javascriptdeveloper
+
+📞 Mobile: +(92)-341-212-8554
+📧 E-mail: muhammadshiraz996@gmail.com
+📍 Avcilar, Istanbul, Turkey
+
+#UIUXDeveloper #FrontendReactDeveloper #ReactJS #NodeJS #WebDevelopment #TechInnovator #ProblemSolver #EuropeanJobOpportunities
+
+
+
+
+
 
 ## Experience
 
