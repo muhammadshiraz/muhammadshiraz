@@ -16,19 +16,6 @@
 
 💻 IDEs & More: I'm well-versed in using Visual Studio Code, IntelliJ IDEA, and various other IDEs, ensuring an efficient and smooth coding experience.
 
-#freelancing #frontendengineer #frontenddeveloper #blockchaindeveloper #javascriptdeveloper
-
-📞 Mobile: +(92)-341-212-8554
-📧 E-mail: muhammadshiraz996@gmail.com
-📍 Avcilar, Istanbul, Turkey
-
-#UIUXDeveloper #FrontendReactDeveloper #ReactJS #NodeJS #WebDevelopment #TechInnovator #ProblemSolver #EuropeanJobOpportunities
-
-
-
-
-
-
 ## Experience
 
 - **UI/UX Developer & Senior Front End React Developer**
@@ -94,3 +81,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadshiraz&show_icons=true&hide=contribs)
 
 Feel free to connect with me on any of the above social profiles or reach out to me via email. I'm always open to collaboration and exciting new projects! Let's create amazing web experiences together! 😊
+
+#UIUXDeveloper #FrontendReactDeveloper #ReactJS #NodeJS #WebDevelopment #TechInnovator #ProblemSolver #EuropeanJobOpportunities #freelancing #frontendengineer #frontenddeveloper #blockchaindeveloper #javascriptdeveloper
