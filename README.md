@@ -6,7 +6,7 @@
 
 🌐 𝐎𝐩𝐞𝐧 𝐟𝐨𝐫 𝐄𝐱𝐜𝐢𝐭𝐢𝐧𝐠 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬: I am currently seeking new roles worldwide, with priority given to opportunities within the 𝐄𝐮𝐫𝐨𝐩𝐞𝐚𝐧 𝐔𝐧𝐢𝐨𝐧 (𝐄𝐔) as priority 1, followed by opportunities in 𝐍𝐨𝐫𝐭𝐡 𝐀𝐦𝐞𝐫𝐢𝐜𝐚 (𝐔𝐒𝐀 𝐚𝐧𝐝 𝐂𝐚𝐧𝐚𝐝𝐚) as priority 2. where I can contribute my expertise and collaborate with dynamic teams on innovative projects. If you're looking for a motivated and detail-oriented developer to elevate your frontend initiatives, let's connect and explore possibilities together!**
 
-𝐏𝐥𝐞𝐚𝐬𝐞 𝐧𝐨𝐭𝐞: I am not considering opportunities in 𝐀𝐬𝐢𝐚 at this time.
+𝐏𝐥𝐞𝐚𝐬𝐞 𝐧𝐨𝐭𝐞: I am not considering opportunities in 𝐒𝐨𝐮𝐭𝐡 𝐀𝐬𝐢𝐚 at this time.
 
 💡 Innovation & Collaboration: As a forward-thinking developer, I thrive on exploring modern techniques and staying up-to-date with the latest front-end technologies. Collaborating with cross-functional teams is second nature to me, as I believe it leads to the best outcomes and fosters creative problem-solving.
 
