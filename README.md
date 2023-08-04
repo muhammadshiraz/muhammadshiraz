@@ -1,4 +1,4 @@
-![Muhammad Shiraz, a UI/UX Developer & Frontend React Developer](https://media.licdn.com/dms/image/D4D16AQEaL_z51BxIFA/profile-displaybackgroundimage-shrink_350_1400/0/1691064520328?e=1696464000&v=beta&t=Ew5MVg8-tH4yJ6hnkzjRSao15raRo9Tcyy20UvFYzoQ)
+![Muhammad Shiraz, a UI/UX Developer & Frontend React Developer](frontend-react-developer.jpg)
 
 # Muhammad Shiraz
 
