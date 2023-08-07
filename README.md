@@ -18,6 +18,8 @@
 
 💻 IDEs & More: I'm well-versed in using Visual Studio Code, IntelliJ IDEA, and various other IDEs, ensuring an efficient and smooth coding experience.
 
+Let's embark on an exciting web development journey together! 🚀
+
 ## Experience
 
 - **UI/UX Developer & Senior Front End React Developer**
