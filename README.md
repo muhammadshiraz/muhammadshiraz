@@ -4,9 +4,9 @@
 
 🔍 Hello! 👋 I'm Muhammad Shiraz, a 🌟 UI/UX Developer & Frontend React Developer 🚀 | Passionate about Creating Engaging Web Experiences! based in Istanbul, Turkey, with a strong passion for crafting exceptional digital experiences. My expertise lies in React, Node.js, and a diverse range of cutting-edge technologies, making me a versatile developer with a knack for turning ideas into reality.
 
-🌐 𝐎𝐩𝐞𝐧 𝐟𝐨𝐫 𝐄𝐱𝐜𝐢𝐭𝐢𝐧𝐠 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬: I am currently seeking new roles worldwide, with priority given to opportunities within the 𝐄𝐮𝐫𝐨𝐩𝐞𝐚𝐧 𝐔𝐧𝐢𝐨𝐧 (𝐄𝐔) as priority 1, followed by opportunities in 𝐍𝐨𝐫𝐭𝐡 𝐀𝐦𝐞𝐫𝐢𝐜𝐚 (𝐔𝐒𝐀 𝐚𝐧𝐝 𝐂𝐚𝐧𝐚𝐝𝐚) as priority 2. where I can contribute my expertise and collaborate with dynamic teams on innovative projects. If you're looking for a motivated and detail-oriented developer to elevate your frontend initiatives.
+🌐 𝐎𝐩𝐞𝐧 𝐟𝐨𝐫 𝐄𝐱𝐜𝐢𝐭𝐢𝐧𝐠 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬: Seeking new global opportunities is my current endeavor. My primary focus is securing roles within the vibrant landscape of 𝐄𝐮𝐫𝐨𝐩𝐞, a region that captivates my utmost attention. Alongside, I'm keenly interested in openings across 𝐍𝐨𝐫𝐭𝐡 𝐀𝐦𝐞𝐫𝐢𝐜𝐚, 𝐒𝐨𝐮𝐭𝐡 𝐀𝐦𝐞𝐫𝐢𝐜𝐚, 𝐀𝐟𝐫𝐢𝐜𝐚, and Oceania, which hold significant places in my pursuit. Within these diverse realms, my goal is to infuse my expertise and synergize with dynamic teams to propel innovative ventures.
 
-𝐏𝐥𝐞𝐚𝐬𝐞 𝐧𝐨𝐭𝐞: I am not considering opportunities in 𝐒𝐨𝐮𝐭𝐡 𝐀𝐬𝐢𝐚 at this time.
+𝐏𝐥𝐞𝐚𝐬𝐞 𝐧𝐨𝐭𝐞: Opportunities in 𝐒𝐨𝐮𝐭𝐡 𝐀𝐬𝐢𝐚 are not under consideration at this time.
 
 💡 Innovation & Collaboration: As a forward-thinking developer, I thrive on exploring modern techniques and staying up-to-date with the latest front-end technologies. Collaborating with cross-functional teams is second nature to me, as I believe it leads to the best outcomes and fosters creative problem-solving.
 
