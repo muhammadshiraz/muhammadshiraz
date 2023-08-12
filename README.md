@@ -49,6 +49,8 @@ Let's embark on an exciting web development journey together! 🚀
 - 📞 Mobile: +(92)-341-212-8554
 - 📱 WhatsApp: +(92)-341-212-8554
 - 📧 Email: muhammadshiraz996@gmail.com
+- 🌐 www.muhammadshiraz.com
+- 📍 Avcilar, Istanbul, Turkey
 
 ## Social Profiles
 
