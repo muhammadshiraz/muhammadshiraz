@@ -2,11 +2,9 @@
 
 # Muhammad Shiraz
 
-🔍 Hello! 👋 I'm Muhammad Shiraz, a 🌟 UI/UX Developer & Frontend React Developer 🚀 | Passionate about Creating Engaging Web Experiences! based in Istanbul, Turkey, with a strong passion for crafting exceptional digital experiences. My expertise lies in React, Node.js, and a diverse range of cutting-edge technologies, making me a versatile developer with a knack for turning ideas into reality.
+🔍 Welcome to my profile! I'm Muhammad Shiraz, a Software Engineer (Frontend) at Upwork, deeply passionate about crafting exceptional digital experiences. My expertise encompasses React, Node.js, and a diverse range of cutting-edge technologies, making me a versatile developer with a knack for transforming ideas into reality.
 
-🌐 𝐎𝐩𝐞𝐧 𝐟𝐨𝐫 𝐄𝐱𝐜𝐢𝐭𝐢𝐧𝐠 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬: Seeking new global opportunities is my current endeavor. My primary focus is securing roles within the vibrant landscape of 𝐄𝐮𝐫𝐨𝐩𝐞, a region that captivates my utmost attention. Alongside, I'm keenly interested in openings across 𝐍𝐨𝐫𝐭𝐡 𝐀𝐦𝐞𝐫𝐢𝐜𝐚, 𝐒𝐨𝐮𝐭𝐡 𝐀𝐦𝐞𝐫𝐢𝐜𝐚, 𝐀𝐟𝐫𝐢𝐜𝐚, and Oceania, which hold significant places in my pursuit. Within these diverse realms, my goal is to infuse my expertise and synergize with dynamic teams to propel innovative ventures.
-
-𝐏𝐥𝐞𝐚𝐬𝐞 𝐧𝐨𝐭𝐞: Opportunities in 𝐒𝐨𝐮𝐭𝐡 𝐀𝐬𝐢𝐚 are not under consideration at this time.
+🌐 𝐎𝐩𝐞𝐧 𝐟𝐨𝐫 𝐄𝐱𝐜𝐢𝐭𝐢𝐧𝐠 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬: I am currently seeking new roles within the captivating realm of 𝐄𝐮𝐫𝐨𝐩𝐞, while also maintaining a keen intrigue for openings in 𝐍𝐨𝐫𝐭𝐡 𝐀𝐦𝐞𝐫𝐢𝐜𝐚, 𝐒𝐨𝐮𝐭𝐡 𝐀𝐦𝐞𝐫𝐢𝐜𝐚, 𝐀𝐟𝐫𝐢𝐜𝐚, and the enchanting domain of 𝐎𝐜𝐞𝐚𝐧𝐢𝐚. My overarching goal is to seamlessly blend my expertise, synergize with dynamic teams, and actively drive innovation. It's worth noting that opportunities in 𝐒𝐨𝐮𝐭𝐡 𝐀𝐬𝐢𝐚 are not currently under consideration.
 
 💡 Innovation & Collaboration: As a forward-thinking developer, I thrive on exploring modern techniques and staying up-to-date with the latest front-end technologies. Collaborating with cross-functional teams is second nature to me, as I believe it leads to the best outcomes and fosters creative problem-solving.
 
