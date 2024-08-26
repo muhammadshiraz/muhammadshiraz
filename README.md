@@ -1,4 +1,4 @@
-![Muhammad Shiraz, a UI/UX Developer & Frontend React Developer](advanced-risk-and-portfolio-management.jpg)
+![Muhammad Shiraz, a UI/UX Developer & Frontend React Developer](principal_frontend_engineer.jpg)
 
 # Muhammad Shiraz
 
