@@ -21,7 +21,7 @@ Hello! I’m Muhammad Shiraz, a visionary Principal Frontend Engineer with over 
 
 ## Contact Information
 
-- 📧 Email: hire@muhammadshiraz.com | muhammadshiraz996@gmail.com
+- 📧 Email: muhammadshiraz996@gmail.com
 - 🌐 Website: [muhammadshiraz.com](https://muhammadshiraz.com)
 - 💼 LinkedIn: [linkedin.com/in/muhammadshiraz](https://linkedin.com/in/muhammadshiraz)
 - 🐙 GitHub: [github.com/muhammadshiraz](https://github.com/muhammadshiraz)
