@@ -25,7 +25,7 @@ Hello! I’m Muhammad Shiraz, a visionary Principal Frontend Engineer with over 
 - 🌐 Website: [muhammadshiraz.com](https://muhammadshiraz.com)
 - 💼 LinkedIn: [linkedin.com/in/muhammadshiraz](https://linkedin.com/in/muhammadshiraz)
 - 🐙 GitHub: [github.com/muhammadshiraz](https://github.com/muhammadshiraz)
-- 📞 Phone/WhatsApp: +90 542 178 23 24
+- 📞 Phone/WhatsApp: +971 58 309 0624
 
 Let’s shape the future of technology together! 🚀
 
