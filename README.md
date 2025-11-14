@@ -1,38 +1,121 @@
-![Muhammad Shiraz, a UI/UX Developer & Frontend React Developer](principal_frontend_engineer.jpg)
+![Muhammad Shiraz – Senior Frontend Engineer (React, Next.js, TypeScript, AI)](principal_frontend_engineer.jpg)
 
 # Muhammad Shiraz
 
-🚀 **Principal Frontend Engineer & UI/UX Visionary | React.js | Node.js | TypeScript | Blockchain Innovator**
+🚀 **Senior Frontend Engineer | React.js • Next.js • TypeScript • React Native • AI & Web3**
 
-Hello! I’m Muhammad Shiraz, a visionary Principal Frontend Engineer with over eight years of experience in designing dynamic, user-centric digital experiences. I’m passionate about driving innovation and crafting intuitive interfaces across diverse platforms.
+Hello! I’m **Muhammad Shiraz**, a Dubai-based Senior Frontend Engineer with **11+ years of experience** building high-performance web and mobile applications.
 
-🔧 **Technical Mastery:** With deep expertise in React.js, Node.js, and TypeScript, I excel in modern frontend frameworks like Redux, Angular, Vue.js, and Tailwind CSS. My skills extend to mobile app development with React Native and blockchain technologies like Ethereum and Web3.js.
+I specialise in **React, Next.js (13–15), TypeScript, React Native and modern UI engineering**, with a strong focus on:
 
-🌐 **Industry Leadership:** I’ve led transformative projects, optimizing mobile apps at Megatech Trackers and revolutionizing UI/UX at Boranka Teknoloji A.Ş. My experience spans blockchain solutions at Ekonobi and Oxhain Exchange, as well as fintech advancements focused on efficiency and design.
+- Scalable **design systems** and reusable component libraries  
+- **High-performance** interfaces (Core Web Vitals, Lighthouse)  
+- **API-driven architectures** (REST, auth, RBAC, dashboards)  
+- **AI-powered experiences** (OpenAI integrations, intelligent UI flows)  
+- **Web3 & Fintech** frontends (wallets, analytics, trading UIs)
 
-📈 **Key Achievements:**
-- **LeReve Capital:** Integrated Web3 technology with traditional venture funding.
-- **Dollar Factory Club:** Developed an advanced trading education platform with Laravel, Bootstrap, and Tailwind CSS.
-- **Oxhain Exchange:** Transformed 100+ Figma designs into high-performance React and React Native interfaces.
+I’ve delivered products across **UAE, Canada, Turkey, Europe and global remote teams** for enterprise, fintech, SaaS, mobility, and crypto platforms.
 
-🎓 **Educational Foundation:** I hold a Master’s degree in Information Systems Engineering from Kocaeli University and a Bachelor’s in Computer Science from Dadabhoy Institute of Higher Education.
+---
 
-🌟 **Let’s Innovate Together:** I’m open to new opportunities and collaborations. Let’s create the future of technology together!
+## 💼 Current Focus
 
-## Contact Information
+- **Senior Frontend & AI Engineer – Book That Boat (Dubai)**  
+  Building a **Next.js 15 + AI-enabled luxury yacht booking platform** using TypeScript, React Server Components, Payload CMS and OpenAI for automated content and intelligent booking flows.
 
-- 📧 Email: muhammadshiraz996@gmail.com
-- 🌐 Website: [muhammadshiraz.com](https://muhammadshiraz.com)
-- 💼 LinkedIn: [linkedin.com/in/muhammadshiraz](https://linkedin.com/in/muhammadshiraz)
-- 🐙 GitHub: [github.com/muhammadshiraz](https://github.com/muhammadshiraz)
-- 📞 Phone/WhatsApp: +971 58 309 0624
+---
 
-Let’s shape the future of technology together! 🚀
+## 🔧 Core Tech Stack
 
-## GitHub Stats
+- **Frontend:** React.js, Next.js (13–15), React Native, TypeScript, JavaScript (ES6+), Redux Toolkit, Recoil, Zustand, TanStack Query  
+- **UI/UX & Design Systems:** Tailwind CSS, Material-UI (MUI), Ant Design, Styled Components, Storybook, Responsive Design  
+- **APIs & Architecture:** REST APIs, Authentication, RBAC, WebSockets, SSR/SSG, React Server Components, micro-frontend friendly patterns  
+- **AI & Data:** OpenAI API, AI-assisted UI, TensorFlow.js, basic NLP pipelines  
+- **Web3:** Ethers.js, Wagmi, Viem, Wallet integrations, Solana SDK, NFT/DeFi dashboards  
+- **Testing & Quality:** Jest, React Testing Library, Cypress  
+- **Tools & Platforms:** Git, GitHub Actions, Vercel, Firebase, Expo, Docker (basic), Figma, Jira  
+
+---
+
+## 🔥 Selected Projects
+
+### 🛥️ Book That Boat – AI-Powered Yacht Booking Platform  
+**Stack:** Next.js 15, TypeScript, Payload CMS, Tailwind CSS, OpenAI API, React Query, Vercel  
+Built the frontend architecture for an **AI-enabled luxury yacht booking platform** in Dubai:
+- End-to-end booking flows with dynamic pricing and availability  
+- AI-generated content (yacht descriptions, routes, FAQs) using OpenAI  
+- High-performance UI with RSC, code-splitting and Core Web Vitals optimisation  
+
+---
+
+### 📊 Folionomics – Crypto Portfolio Management  
+**Stack:** Next.js 14, React 18, TypeScript, Redux Toolkit, React Query, Recharts, Plotly, Wagmi, Viem, Solana SDK  
+- Real-time portfolio analytics across multiple chains and tokens  
+- Multi-wallet connectivity with a polished, investor-focused UX  
+- Themeable, accessible UI using Tailwind CSS + MUI  
+
+---
+
+### 🧠 Oxhain Exchange – Web3 Trading & AI Insights  
+**Stack:** React.js, TypeScript, Ethers.js, Tailwind CSS, Web3 integrations, AI-backed insights  
+- Built Web3 dashboards for trading, staking, NFTs and analytics  
+- Integrated AI-driven signals to assist traders with better decision-making  
+
+---
+
+### 🚚 Unilever Pasban – Fleet Safety & Telematics Suite  
+**Stack:** React Native, Next.js, TypeScript, Redux Toolkit, Firebase, REST APIs  
+- Developed mobile and web apps for driver safety, GPS tracking and telematics  
+- Built dashboards for events, alerts and driver performance metrics  
+
+---
+
+### 💹 XTB Clone – Trading Interface Simulation  
+**Stack:** React.js, TypeScript, charts, dynamic UI  
+- Built a **fully responsive trading interface** with simulated CFDs, charts and real-time-like interactions  
+- Implemented modular components suitable for fintech-style products  
+
+---
+
+### 💼 LeReve Capital – Investment & Web3 Platform  
+**Stack:** Next.js, TypeScript, SSR, Web3 integrations  
+- Developed an investment dashboard with SSR, secure flows and modern, responsive UI  
+
+---
+
+## 🎓 Education
+
+- 🎓 **MSc – Information Systems Engineering (Machine Learning)**  
+  *Kocaeli University, Turkey*  
+
+- 🎓 **BSc – Computer Science**  
+  *Dadabhoy Institute of Higher Education, Pakistan*  
+
+- 🎓 **ACCP PRO – Software Engineering & Frontend Development**  
+  *Aptech Pakistan*  
+
+---
+
+## 📍 Current Status
+
+- 📌 Based in **Dubai, United Arab Emirates**  
+- 🟢 **Open to Senior Frontend / React / Next.js / TypeScript / Frontend+AI roles**  
+- ⚡ **Immediate joiner – visa transfer possible**
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **officialmuhammadshiraz@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/muhammadshiraz](https://linkedin.com/in/muhammadshiraz)  
+- 🐙 GitHub: [github.com/muhammadshiraz](https://github.com/muhammadshiraz)  
+- 📞 Phone/WhatsApp: **+971 58 309 0624**  
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadshiraz&show_icons=true&hide=contribs)
 
-Feel free to connect with me on any of the above social profiles or reach out to me via email. I'm always open to collaboration and exciting new projects! Let's create amazing web experiences together! 😊
-
-#UIUXDeveloper #FrontendReactDeveloper #ReactJS #NodeJS #WebDevelopment #TechInnovator #ProblemSolver #EuropeanJobOpportunities #freelancing #frontendengineer #frontenddeveloper #blockchaindeveloper #javascriptdeveloper
+I’m always open to **challenging frontend problems, AI-enabled products, Web3 dashboards, and high-performance UI architecture**.  
+If you’re building something ambitious, let’s talk. 🚀
