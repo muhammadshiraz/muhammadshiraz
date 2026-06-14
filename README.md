@@ -1,33 +1,29 @@
-![Muhammad Shiraz – Senior Frontend Engineer (React, Next.js, TypeScript, AI)](principal_frontend_engineer.jpg)
-
 # Muhammad Shiraz
 
-🚀 **Senior Frontend Engineer | React.js • Next.js • TypeScript • React Native • AI & Web3**
+## Senior Frontend Engineer | React.js • Next.js • TypeScript • React Native • AI & Web3
 
-Hello! I’m **Muhammad Shiraz**, a Dubai-based Senior Frontend Engineer with **11+ years of experience** building high-performance web and mobile applications.
+I build production-grade frontend systems for SaaS platforms, dashboards, booking products, mobile applications, Web3 interfaces, and AI-enabled product experiences.
 
-I specialise in **React, Next.js (13–15), TypeScript, React Native and modern UI engineering**, with a strong focus on:
-
-- Scalable **design systems** and reusable component libraries  
-- **High-performance** interfaces (Core Web Vitals, Lighthouse)  
-- **API-driven architectures** (REST, auth, RBAC, dashboards)  
-- **AI-powered experiences** (OpenAI integrations, intelligent UI flows)  
-- **Web3 & Fintech** frontends (wallets, analytics, trading UIs)
-
-I’ve delivered products across **UAE, Canada, Turkey, Europe and global remote teams** for enterprise, fintech, SaaS, mobility, and crypto platforms.
+I have 11+ years of experience working with global teams across React.js, Next.js, TypeScript, React Native, REST APIs, frontend architecture, responsive UI, performance optimization, and reusable component systems.
 
 ---
 
-## 💼 Current Focus
+## What I Build
 
-- **Senior Frontend & AI Engineer – Book That Boat (Dubai)**  
-  Building a **Next.js 15 + AI-enabled luxury yacht booking platform** using TypeScript, React Server Components, Payload CMS and OpenAI for automated content and intelligent booking flows.
+* SaaS dashboards and admin platforms
+* React.js and Next.js web applications
+* React Native mobile applications
+* Design systems and reusable UI components
+* Booking platforms and marketplace interfaces
+* Web3 dashboards and wallet-connected interfaces
+* API-driven frontend products
+* Performance-focused, SEO-ready user experiences
 
 ---
 
-## 🔧 Core Tech Stack
+## Core Tech Stack
 
-- **Frontend:** React.js, Next.js (13–15), React Native, TypeScript, JavaScript (ES6+), Redux Toolkit, Recoil, Zustand, TanStack Query  
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript, React Native
 - **UI/UX & Design Systems:** Tailwind CSS, Material-UI (MUI), Ant Design, Styled Components, Storybook, Responsive Design  
 - **APIs & Architecture:** REST APIs, Authentication, RBAC, WebSockets, SSR/SSG, React Server Components, micro-frontend friendly patterns  
 - **AI & Data:** OpenAI API, AI-assisted UI, TensorFlow.js, basic NLP pipelines  
