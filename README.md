@@ -101,49 +101,50 @@ Add repository link here
 **Stack:** React.js, TypeScript, Ethers.js, Tailwind CSS, Web3 integrations, AI-backed insights  
 - Built Web3 dashboards for trading, staking, NFTs and analytics  
 - Integrated AI-driven signals to assist traders with better decision-making
-  
----
-
-### 💹 XTB Clone – Trading Interface Simulation  
-**Stack:** React.js, TypeScript, charts, dynamic UI  
-- Built a **fully responsive trading interface** with simulated CFDs, charts and real-time-like interactions  
-- Implemented modular components suitable for fintech-style products  
 
 ---
 
-### 💼 LeReve Capital – Investment & Web3 Platform  
-**Stack:** Next.js, TypeScript, SSR, Web3 integrations  
-- Developed an investment dashboard with SSR, secure flows and modern, responsive UI  
+## Why Companies Work With Me
+
+* I understand both engineering and user experience
+* I can work across frontend, mobile, dashboards, APIs, and product UI
+* I write clean, reusable, maintainable frontend code
+* I can join existing teams and improve frontend structure
+* I focus on business value, not only UI screens
+* I can work with global teams, remote teams, and cross-functional product environments
 
 ---
 
-## 🎓 Education
+## Current Focus
 
-- 🎓 **MSc – Information Systems Engineering (Machine Learning)**  
-  *Kocaeli University, Turkey*  
+I am open to opportunities as:
 
-- 🎓 **BSc – Computer Science**  
-  *Dadabhoy Institute of Higher Education, Pakistan*  
+* Senior Frontend Engineer
+* Senior React Engineer
+* Senior Next.js Engineer
+* Senior UI Engineer
+* React Native Engineer
+* Product Frontend Engineer
+* Frontend Architect
 
-- 🎓 **ACCP PRO – Software Engineering & Frontend Development**  
-  *Aptech Pakistan*  
-
----
-
-## 📍 Current Status
-
-- 📌 Based in **Dubai, United Arab Emirates**  
-- 🟢 **Open to Senior Frontend / React / Next.js / TypeScript / Frontend+AI roles**  
-- ⚡ **Immediate joiner – visa transfer possible**
+I am especially interested in roles involving React.js, Next.js, TypeScript, design systems, SaaS dashboards, product UI, React Native, AI interfaces, Web3 dashboards, performance optimization, and scalable frontend architecture.
 
 ---
 
-## 📫 Contact
+## Location & Availability
 
-- 📧 Email: **officialmuhammadshiraz@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/muhammadshiraz](https://linkedin.com/in/muhammadshiraz)  
-- 🐙 GitHub: [github.com/muhammadshiraz](https://github.com/muhammadshiraz)  
-- 📞 Phone/WhatsApp: **+971 58 309 0624**  
+Karachi, Pakistan
+Open to remote, hybrid, relocation, and visa-sponsored international opportunities
+Available for global teams across UAE, Europe, UK, Canada, USA, Singapore, Malaysia, and remote-first companies
+
+---
+
+## Contact
+
+**Email:** [muhammadshiraz996@gmail.com](mailto:muhammadshiraz996@gmail.com)
+**LinkedIn:** linkedin.com/in/muhammadshiraz
+**GitHub:** github.com/muhammadshiraz
+**Portfolio:** muhammadshiraz.com
 
 ---
 
