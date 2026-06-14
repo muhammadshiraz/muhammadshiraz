@@ -1,46 +1,91 @@
 # Muhammad Shiraz
 
-## Senior Frontend Engineer | React.js • Next.js • TypeScript • React Native • AI & Web3
+## Senior Frontend Engineer — React.js, Next.js, TypeScript, React Native & Product UI
 
-I build production-grade frontend systems for SaaS platforms, dashboards, booking products, mobile applications, Web3 interfaces, and AI-enabled product experiences.
+I am a Senior Frontend Engineer with 11+ years of experience building production-grade web and mobile applications for global teams.
 
-I have 11+ years of experience working with global teams across React.js, Next.js, TypeScript, React Native, REST APIs, frontend architecture, responsive UI, performance optimization, and reusable component systems.
+I specialize in React.js, Next.js, TypeScript, React Native, frontend architecture, scalable UI systems, dashboards, booking platforms, mobile applications, Web3 interfaces, AI-enabled product experiences, API integrations, performance optimization, and clean user experience implementation.
+
+My strength is turning complex business requirements into fast, responsive, maintainable, and user-friendly frontend products.
 
 ---
 
-## What I Build
+## Core Positioning
 
+I help companies build:
+
+* Scalable React.js and Next.js applications
 * SaaS dashboards and admin platforms
-* React.js and Next.js web applications
+* High-quality product UI and design systems
 * React Native mobile applications
-* Design systems and reusable UI components
 * Booking platforms and marketplace interfaces
-* Web3 dashboards and wallet-connected interfaces
 * API-driven frontend products
-* Performance-focused, SEO-ready user experiences
+* Web3 dashboards and wallet-connected interfaces
+* AI-enabled user interfaces and automation workflows
+* Performance-focused, SEO-ready frontend experiences
 
 ---
 
-## Core Tech Stack
+## Technical Strengths
 
-- **Frontend:** React.js, Next.js, TypeScript, JavaScript, React Native
-- **UI/UX & Design Systems:** Tailwind CSS, Material-UI (MUI), Ant Design, Styled Components, Storybook, Responsive Design  
-- **APIs & Architecture:** REST APIs, Authentication, RBAC, WebSockets, SSR/SSG, React Server Components, micro-frontend friendly patterns  
-- **AI & Data:** OpenAI API, AI-assisted UI, TensorFlow.js, basic NLP pipelines  
-- **Web3:** Ethers.js, Wagmi, Viem, Wallet integrations, Solana SDK, NFT/DeFi dashboards  
-- **Testing & Quality:** Jest, React Testing Library, Cypress  
-- **Tools & Platforms:** Git, GitHub Actions, Vercel, Firebase, Expo, Docker (basic), Figma, Jira  
+**Frontend Engineering:**
+React.js, Next.js, TypeScript, JavaScript, React Native, HTML5, CSS3
+
+**UI & Design Systems:**
+Tailwind CSS, Material UI, Ant Design, Bootstrap, responsive UI, mobile-first design, reusable component systems
+
+**State & Data:**
+Redux Toolkit, Zustand, Context API, React Query, REST APIs, Axios, WebSockets
+
+**Architecture:**
+Frontend architecture, component architecture, SSR, SSG, SPA, reusable UI patterns, scalable folder structures
+
+**Quality & Performance:**
+Jest, Cypress, React Testing Library, ESLint, Core Web Vitals, lazy loading, memoization, image optimization, caching, accessibility, SEO
+
+**Product Domains:**
+SaaS, fintech, Web3, AI product interfaces, booking platforms, dashboards, fleet management, telematics, mobile applications 
 
 ---
 
-## 🔥 Selected Projects
+## Featured Proof-of-Work Case Studies
 
-### 🛥️ Book That Boat – AI-Powered Yacht Booking Platform  
-**Stack:** Next.js 15, TypeScript, Payload CMS, Tailwind CSS, OpenAI API, React Query, Vercel  
-Built the frontend architecture for an **AI-enabled luxury yacht booking platform** in Dubai:
-- End-to-end booking flows with dynamic pricing and availability  
-- AI-generated content (yacht descriptions, routes, FAQs) using OpenAI  
-- High-performance UI with RSC, code-splitting and Core Web Vitals optimisation  
+### Book That Boat — Premium Yacht Booking Platform
+A modern booking platform built for yacht listings, dynamic pricing, booking flows, route displays, media galleries, service pages, and CMS-driven content.
+
+**Stack:**
+Next.js, React.js, TypeScript, Tailwind CSS, Payload CMS, REST APIs, SEO, responsive UI
+
+**Proof of Work:**
+
+* Built responsive booking and listing flows
+* Integrated CMS-driven boat, route, pricing, and extras content
+* Created reusable frontend components
+* Improved mobile-first customer experience
+* Structured pages for SEO and performance
+
+**Case Study:**
+Add repository link here
+
+---
+
+### Fleet & Telematics Platform — React Native + Dashboard
+
+A mobile and dashboard platform for GPS tracking, driver safety, live alerts, reporting, maps, and operational visibility.
+
+**Stack:**
+React Native, Next.js, TypeScript, Firebase, Redux Toolkit, REST APIs, maps, dashboards
+
+**Proof of Work:**
+
+* Built mobile-first operational screens
+* Created dashboard interfaces for alerts and reporting
+* Integrated authentication and secure APIs
+* Designed map-based and real-time workflow screens
+* Improved usability for field and operations teams
+
+**Case Study:**
+Add repository link here
 
 ---
 
@@ -55,15 +100,8 @@ Built the frontend architecture for an **AI-enabled luxury yacht booking platfor
 ### 🧠 Oxhain Exchange – Web3 Trading & AI Insights  
 **Stack:** React.js, TypeScript, Ethers.js, Tailwind CSS, Web3 integrations, AI-backed insights  
 - Built Web3 dashboards for trading, staking, NFTs and analytics  
-- Integrated AI-driven signals to assist traders with better decision-making  
-
----
-
-### 🚚 Unilever Pasban – Fleet Safety & Telematics Suite  
-**Stack:** React Native, Next.js, TypeScript, Redux Toolkit, Firebase, REST APIs  
-- Developed mobile and web apps for driver safety, GPS tracking and telematics  
-- Built dashboards for events, alerts and driver performance metrics  
-
+- Integrated AI-driven signals to assist traders with better decision-making
+  
 ---
 
 ### 💹 XTB Clone – Trading Interface Simulation  
