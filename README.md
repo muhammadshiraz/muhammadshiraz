@@ -6,7 +6,9 @@
 
 ### React.js · Next.js · TypeScript · React Native · Product UI · Frontend Architecture
 
-I build production-grade frontend systems for SaaS platforms, dashboards, booking products, mobile applications, Web3 interfaces, AI-enabled products, and business-critical digital platforms.
+I build production-grade frontend systems for SaaS platforms, dashboards, booking products, mobile applications, Web3 interfaces, AI-enabled products, CMS-driven platforms, and business-critical digital products.
+
+<br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-muhammadshiraz.com-blue?style=for-the-badge\&logo=google-chrome)](https://muhammadshiraz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shiraz-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/muhammadshiraz)
@@ -19,9 +21,9 @@ I build production-grade frontend systems for SaaS platforms, dashboards, bookin
 
 ## About Me
 
-I am a Senior Frontend Engineer with 11+ years of experience building scalable, responsive, maintainable, and performance-focused web and mobile applications for global teams.
+I am a **Senior Frontend Engineer with 11+ years of experience** building scalable, responsive, maintainable, and performance-focused web and mobile applications for global teams.
 
-My strongest work is around React.js, Next.js, TypeScript, React Native, frontend architecture, reusable component systems, API-driven product interfaces, dashboards, booking platforms, mobile-first applications, Web3 interfaces, AI-enabled workflows, performance optimization, and clean UI/UX implementation.
+My strongest work is around **React.js, Next.js, TypeScript, React Native, frontend architecture, reusable component systems, API-driven product interfaces, dashboards, booking platforms, CMS-driven applications, Web3 interfaces, AI-enabled workflows, performance optimization, and clean UI/UX implementation**.
 
 I focus on turning complex business requirements into fast, polished, user-friendly, and production-ready frontend products.
 
@@ -29,17 +31,17 @@ I focus on turning complex business requirements into fast, polished, user-frien
 
 ## What I Build
 
-* Scalable React.js and Next.js applications
-* SaaS dashboards and admin platforms
-* High-quality product UI and design systems
-* React Native mobile applications
-* Booking platforms and marketplace interfaces
-* API-driven frontend products
-* Web3 dashboards and wallet-connected interfaces
-* AI-enabled user interfaces and automation workflows
-* Performance-focused and SEO-ready frontend experiences
-* Real-time operational dashboards and business systems
-* CMS-driven platforms with structured content and reusable frontend architecture
+| Product Area          | What I Deliver                                                     |
+| --------------------- | ------------------------------------------------------------------ |
+| Frontend Applications | React.js, Next.js, TypeScript, App Router, SSR, responsive UI      |
+| SaaS Dashboards       | Admin panels, analytics, charts, filters, tables, reports          |
+| Mobile Applications   | React Native apps, forms, maps, operational workflows              |
+| CMS-Driven Platforms  | Payload CMS, structured content, dynamic frontend pages            |
+| Booking Platforms     | Listings, detail pages, booking flows, pricing, SEO                |
+| Web3 Dashboards       | Wallet UI, portfolio views, token tables, analytics, sharing flows |
+| AI Product Interfaces | AI-powered UI, assistants, automation, decision-support screens    |
+| Design Systems        | Reusable components, UI libraries, responsive layouts              |
+| Performance           | Core Web Vitals, lazy loading, image optimization, caching         |
 
 ---
 
@@ -97,9 +99,7 @@ A production-focused yacht and boat booking platform built with **Next.js, React
 
 The project connects yacht listings, detail pages, route options, dynamic pricing rules, optional extras, coupons, reservation requests, responsive UI, SEO metadata, and CMS-managed business content.
 
-**Tech Stack**
-
-Next.js · React · TypeScript · Payload CMS · Tailwind CSS · React Query · SWR · Axios · next/image · Framer Motion · MongoDB · Vercel Blob
+**Stack:** Next.js · React · TypeScript · Payload CMS · Tailwind CSS · React Query · SWR · Axios · Framer Motion · MongoDB · Vercel Blob
 
 **Key Proof**
 
@@ -109,21 +109,13 @@ Next.js · React · TypeScript · Payload CMS · Tailwind CSS · React Query · 
 * Supported dynamic pricing, minimum-hour rules, special-event packages, extras, dependent extras, and coupon validation
 * Created reusable UI components for listings, filters, galleries, booking widgets, route sections, extras, loaders, and error states
 * Built server-rendered yacht detail pages with dynamic SEO metadata
-* Improved maintainability through typed models, reusable components, centralized API helpers, and CMS-driven content
-* Supported performance-focused decisions such as progressive loading, deferred extras loading, request caching, revalidation, dynamic imports, and optimized images
+* Supported progressive loading, deferred extras loading, request caching, revalidation, dynamic imports, and optimized images
 
 **Business Value**
 
-* Scalable yacht catalogue
-* CMS-managed content and booking operations
-* Mobile-friendly booking journey
-* SEO-ready yacht detail pages
-* Maintainable separation between frontend and CMS backend
-* Extensible reservation workflow for operations and follow-up
+Scalable yacht catalogue, CMS-managed booking operations, mobile-friendly booking journey, SEO-ready detail pages, and maintainable separation between frontend and CMS backend.
 
-**Case Study**
-
-[View Book That Boat Case Study](https://github.com/muhammadshiraz/book-that-boat-case-study)
+**Case Study:** [View Book That Boat Case Study](https://github.com/muhammadshiraz/book-that-boat-case-study)
 
 ---
 
@@ -133,32 +125,23 @@ A React Native and Expo mobile application built for **fleet operations, driver 
 
 The platform brings fleet dashboards, live vehicle tracking, route playback, driver violations, LTO workflows, inspections, assessments, reports, quizzes, and tracker requests into one mobile-first operational experience.
 
-**Tech Stack**
-
-React Native · Expo · JavaScript · React Navigation · Redux · Redux Thunk · Axios · AsyncStorage · React Native Maps · Expo Notifications · Expo File System · React Native SVG Charts
+**Stack:** React Native · Expo · JavaScript · React Navigation · Redux · Redux Thunk · Axios · AsyncStorage · React Native Maps · Expo Notifications · React Native SVG Charts
 
 **Key Proof**
 
 * Built role-based mobile workflows for admin, GSM, and standard user experiences
 * Developed fleet dashboards for responding, non-responding, moving, stopped, and violation-related vehicle states
-* Implemented map-based GPS tracking with clustered markers, animated vehicle movement, direction rotation, route polylines, and historical route playback
+* Implemented GPS tracking with clustered markers, animated vehicle movement, direction rotation, route polylines, and route playback
 * Created driver safety modules for speeding, seat-belt, fatigue, rest-time, night-exit, and black-points analysis
 * Built LTO, document, training, inspection, assessment, and tracker request workflows
 * Integrated authenticated REST APIs with Redux Thunk request, success, and failure states
 * Built reusable mobile components for cards, charts, forms, dropdowns, modals, loaders, progress indicators, and report lists
-* Supported push-notification registration, image upload, document download, and platform-specific file sharing
 
 **Business Value**
 
-* One mobile entry point for tracking, safety, compliance, reporting, training, and field requests
-* Better operational visibility through fleet dashboards and map-based vehicle context
-* Easier driver-risk review and safety monitoring
-* Structured mobile forms for inspections, assessments, LTO, and tracker workflows
-* Reusable mobile UI architecture for future operational modules
+One mobile entry point for tracking, safety, compliance, reporting, training, field requests, driver-risk review, operational visibility, and reusable mobile UI architecture.
 
-**Case Study**
-
-[View Fleet & Telematics Case Study](https://github.com/muhammadshiraz/fleet-telematics-platform-case-study)
+**Case Study:** [View Fleet & Telematics Case Study](https://github.com/muhammadshiraz/fleet-telematics-platform-case-study)
 
 ---
 
@@ -168,9 +151,7 @@ A responsive Web3 portfolio dashboard built with **Next.js, React, TypeScript, R
 
 The product lets users connect wallets, register additional wallet addresses, group wallets into bundles, inspect assets, protocols, NFTs, transactions, historical portfolio value, and create privacy-controlled public views.
 
-**Tech Stack**
-
-Next.js · React · TypeScript · Redux Toolkit · Material UI · Wagmi · Viem · RainbowKit · Solana Web3.js · Plotly · Recharts · QRCode · Docker
+**Stack:** Next.js · React · TypeScript · Redux Toolkit · Material UI · Wagmi · Viem · RainbowKit · Solana Web3.js · Plotly · Recharts · Docker
 
 **Key Proof**
 
@@ -181,19 +162,12 @@ Next.js · React · TypeScript · Redux Toolkit · Material UI · Wagmi · Viem 
 * Built wallet and bundle switching, refresh workflows, and persisted user selections
 * Implemented expiring, revocable, extendable, privacy-controlled share links and QR-code sharing
 * Added loading skeletons, empty states, error states, retries, validation feedback, and responsive Material UI layouts
-* Supported containerized production builds and deployment-oriented configuration
 
 **Business Value**
 
-* One interface for reviewing holdings across wallets and chains
-* Clear portfolio visibility through charts, tables, grouping, filtering, and history
-* Controlled public sharing without exposing every value, address, or transaction
-* Reusable dashboard architecture for additional chains, providers, and account features
-* Better product trust through loading, error, empty, and privacy states
+One interface for reviewing holdings across wallets and chains, clear portfolio visibility, controlled public sharing, reusable dashboard architecture, and better product trust through clear UI states.
 
-**Case Study**
-
-[View Folionomics Case Study](https://github.com/muhammadshiraz/folionomics-web3-dashboard-case-study)
+**Case Study:** [View Folionomics Case Study](https://github.com/muhammadshiraz/folionomics-web3-dashboard-case-study)
 
 ---
 
@@ -216,104 +190,83 @@ Next.js · React · TypeScript · Redux Toolkit · Material UI · Wagmi · Viem 
 
 ---
 
-## Current Focus
+## Open to Opportunities
 
-I am focused on building strong frontend products with:
+I am open to international opportunities where I can contribute as a senior frontend, React, Next.js, UI, mobile, or product-focused engineer.
 
-* React.js
-* Next.js
-* TypeScript
-* React Native
-* Product UI
-* Design systems
-* SaaS dashboards
-* Booking platforms
-* CMS-driven applications
-* Web3 dashboards
-* AI-enabled interfaces
-* Performance-focused frontend architecture
+| Role Type                 | Strong Match                                                    |
+| ------------------------- | --------------------------------------------------------------- |
+| Senior Frontend Engineer  | React.js, Next.js, TypeScript, product UI, dashboards           |
+| Senior React Engineer     | React.js, hooks, state management, API-driven UI                |
+| Senior Next.js Engineer   | App Router, SSR, SEO, CMS-driven platforms                      |
+| Senior UI Engineer        | Design systems, responsive UI, Figma-to-code                    |
+| React Native Engineer     | Mobile apps, operational workflows, maps, forms                 |
+| Product Frontend Engineer | SaaS dashboards, booking platforms, Web3, CMS, AI interfaces    |
+| Frontend Architect        | Scalable components, reusable UI systems, frontend architecture |
 
 ---
 
-## Open to Opportunities
+## Availability
 
-I am open to roles such as:
-
-* Senior Frontend Engineer
-* Senior React Engineer
-* Senior Next.js Engineer
-* Senior UI Engineer
-* React Native Engineer
-* Product Frontend Engineer
-* Frontend Architect
-
-**Location:** Karachi, Pakistan
-**Availability:** Remote, hybrid, relocation, and visa-sponsored international opportunities
-**Target Markets:** UAE, Europe, UK, Canada, USA, Singapore, Malaysia, and remote-first global companies
+| Item                  | Details                                                                             |
+| --------------------- | ----------------------------------------------------------------------------------- |
+| Location              | Karachi, Pakistan                                                                   |
+| Work Mode             | Remote, Hybrid, On-site                                                             |
+| Relocation            | Open to UAE, Europe, UK, Canada, USA, Singapore, Malaysia, and global opportunities |
+| Visa Sponsorship      | Open to visa-sponsored international roles                                          |
+| Time Zone Flexibility | Available for UAE, Europe, UK, and North America overlap                            |
 
 ---
 
 ## Selected Project Types I Can Deliver
 
-* SaaS dashboard from scratch
-* Admin panel with charts, filters, tables, and permissions
-* Booking platform frontend
-* Marketplace UI
-* CMS-driven frontend with Payload CMS
-* React Native mobile app
-* Fleet and telematics mobile workflows
-* Web3 wallet dashboard
-* AI-powered product interface
-* Landing page with high-conversion UI
-* Design system and reusable component library
-* Frontend performance optimization
-* Figma to React / Next.js implementation
-* API-driven product frontend
-* Real-time dashboard and operational workflow UI
+| Product Type             | What I Can Build                                                         |
+| ------------------------ | ------------------------------------------------------------------------ |
+| SaaS Dashboards          | Admin panels, analytics dashboards, reports, filters, charts             |
+| Booking Platforms        | Listings, detail pages, booking flows, pricing, CMS integration          |
+| CMS-Driven Platforms     | Payload CMS, structured content, dynamic frontend pages                  |
+| Mobile Applications      | React Native apps, forms, maps, operational workflows                    |
+| Fleet & Telematics Apps  | GPS tracking, map views, route playback, driver safety workflows         |
+| Web3 Dashboards          | Wallet UI, portfolio dashboards, token tables, charts, sharing flows     |
+| AI Product Interfaces    | AI-powered UI, assistants, workflow automation, decision-support screens |
+| Design Systems           | Reusable components, UI libraries, responsive layouts                    |
+| Performance Optimization | Core Web Vitals, lazy loading, image optimization, caching               |
+| Figma to Frontend        | Pixel-focused React, Next.js, and responsive UI implementation           |
 
 ---
 
 ## How I Think as an Engineer
 
-I care about more than screens.
+I care about building frontend systems that are useful for real users and maintainable for engineering teams.
 
-A strong frontend product needs:
-
-* Clear user journeys
-* Maintainable architecture
-* Reusable components
-* Typed data contracts
-* Fast loading experience
-* Responsive design
-* Strong API integration
-* Error, empty, loading, and success states
-* Clean UI implementation
-* Business value behind every feature
-
-My goal is to build frontend systems that are not only visually polished, but also scalable, maintainable, and useful for real users.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-![Muhammad Shiraz GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadshiraz\&show_icons=true\&theme=default\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshiraz\&layout=compact\&theme=default\&hide_border=true)
-
-</div>
+| Principle                                 | Why It Matters                                           |
+| ----------------------------------------- | -------------------------------------------------------- |
+| Clear user journeys                       | Users should understand what to do next                  |
+| Maintainable architecture                 | Teams should be able to extend the product safely        |
+| Reusable components                       | Faster development with consistent UI                    |
+| Typed data contracts                      | Fewer bugs in API-driven interfaces                      |
+| Fast loading experience                   | Better UX, SEO, and conversion                           |
+| Responsive design                         | Smooth experience across mobile, tablet, and desktop     |
+| Strong API integration                    | Reliable product workflows                               |
+| Loading, empty, error, and success states | Professional user experience                             |
+| Business value                            | Every feature should support a real user or company goal |
 
 ---
 
 ## Contact Me
 
-I am always open to discussing frontend engineering, product UI, React.js, Next.js, TypeScript, React Native, SaaS dashboards, booking platforms, CMS-driven systems, AI interfaces, Web3 dashboards, and international opportunities.
+<div align="center">
 
-**Email:** [muhammadshiraz996@gmail.com](mailto:muhammadshiraz996@gmail.com)
-**LinkedIn:** [linkedin.com/in/muhammadshiraz](https://www.linkedin.com/in/muhammadshiraz)
-**GitHub:** [github.com/muhammadshiraz](https://github.com/muhammadshiraz)
-**Portfolio:** [muhammadshiraz.com](https://muhammadshiraz.com)
+I am open to discussing frontend engineering, product UI, React.js, Next.js, TypeScript, React Native, SaaS dashboards, booking platforms, CMS-driven systems, AI interfaces, Web3 dashboards, and international opportunities.
+
+<br />
+
+[![Email](https://img.shields.io/badge/Email-muhammadshiraz996%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:muhammadshiraz996@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shiraz-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/muhammadshiraz)
+[![GitHub](https://img.shields.io/badge/GitHub-muhammadshiraz-181717?style=for-the-badge\&logo=github)](https://github.com/muhammadshiraz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadshiraz.com-blue?style=for-the-badge\&logo=google-chrome)](https://muhammadshiraz.com)
+
+</div>
 
 ---
 
