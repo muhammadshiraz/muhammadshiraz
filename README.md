@@ -2,7 +2,7 @@
 
 # Muhammad Shiraz
 
-## Senior Frontend Engineer
+## Senior Frontend Engineer | React & Next.js | AI Product Engineering | Building SaaS, AI Apps & High-Performance Interfaces | Immediate Joiner
 
 ### React.js · Next.js · TypeScript · React Native · Product UI · Frontend Architecture
 
